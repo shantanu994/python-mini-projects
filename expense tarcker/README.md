@@ -37,8 +37,7 @@ Install matplotlib:
 
 
 Why I Built This:
-
-    This project helped me practice:
+This project helped me practice:
 
     1.Python basics (functions, loops, conditionals)
 
