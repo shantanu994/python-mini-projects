@@ -3,11 +3,12 @@ A simple Command Line Python application to track your daily expenses. Add, view
 
 
 Features:
- Add Expense – Record amount, category, and date.
- View Expenses – Display all saved expenses.
- Total Expenses – Calculate the total money spent.
- Delete Expense – Remove individual entries (optional).
- Pie Chart Visualization (Advanced) – See your spending by category (requires matplotlib).
+
+     Add Expense – Record amount, category, and date.
+     View Expenses – Display all saved expenses.
+     Total Expenses – Calculate the total money spent.
+     Delete Expense – Remove individual entries (optional).
+     Pie Chart Visualization (Advanced) – See your spending by category (requires matplotlib).
 
 
 
@@ -28,7 +29,7 @@ Run the program:
 
 Dependencies:
 
-  To enable pie chart visualization of your expenses by category:
+    To enable pie chart visualization of your expenses by category:
 
     Install matplotlib:
 
