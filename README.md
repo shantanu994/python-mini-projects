@@ -6,7 +6,11 @@ A collection of beginner-friendly Python projects.
 
 
 ''bash
+
+
 git clone url
+
+
 cd foldername
 
 #Run the python file:
@@ -14,6 +18,8 @@ cd foldername
 
 
 ''bash
+
+
 python filename
 
 
