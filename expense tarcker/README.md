@@ -31,7 +31,7 @@ Dependencies:
 To enable pie chart visualization of your expenses by category:
 Install matplotlib:
 
-    ""bash
+""bash
 
         pip install matplotlib
 
