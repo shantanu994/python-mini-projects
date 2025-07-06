@@ -16,36 +16,36 @@ How to Run:
 
 Clone this repository:
 
-""bash
+   ""bash
 
-git clone url
+       git clone url
 
 Run the program:
 
-""bash
+   ""bash
 
-python expense_tracker.py
+      python expense_tracker.py
 
 Dependencies:
 
-To enable pie chart visualization of your expenses by category:
+  To enable pie chart visualization of your expenses by category:
 
-Install matplotlib:
+    Install matplotlib:
 
-""bash
+      ""bash
 
-pip install matplotlib
+        pip install matplotlib
 
 
 Why I Built This:
 
-This project helped me practice:
+    This project helped me practice:
 
-Python basics (functions, loops, conditionals)
+    1.Python basics (functions, loops, conditionals)
 
-File handling (read/write .txt files)
+    2.File handling (read/write .txt files)
 
-Data visualization with matplotlib (advanced feature)
+    3.Data visualization with matplotlib (advanced feature)
 
 
 
