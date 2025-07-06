@@ -1,5 +1,5 @@
 Expense Tracker :
-A simple Command Line Python application to track your daily expenses. Add, view, calculate totals, and manage your expenses.
+A simple Python application to track your daily expenses. Add, view, calculate totals, and manage your expenses.
 
 
 Features:
@@ -28,12 +28,10 @@ Run the program:
       python expense_tracker.py
 
 Dependencies:
+To enable pie chart visualization of your expenses by category:
+Install matplotlib:
 
-    To enable pie chart visualization of your expenses by category:
-
-    Install matplotlib:
-
-      ""bash
+    ""bash
 
         pip install matplotlib
 
