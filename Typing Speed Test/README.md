@@ -14,11 +14,15 @@
 
 # How to Run:
 1. Clone this repository:
+
 '''bash
+
         git clone url
     
 2. Run the program:
-'''bash 
+
+'''bash
+ 
         python typing_speed_test.py
 
 Follow the on screen instructions to start typing.
