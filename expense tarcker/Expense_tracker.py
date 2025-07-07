@@ -24,7 +24,6 @@ def view_expenses():
                 print(f"\n{idx}. Date: {date} | Category: {category} | Amount: ₹{amount}")
     
         
-
 # Function to calculate total expenses
 def total_expenses():
     total = 0
