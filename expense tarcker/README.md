@@ -1,9 +1,9 @@
-#Expense Tracker :
+# Expense Tracker :
 A simple Python application to track your daily expenses. Add, view, calculate totals, and manage your expenses.
 
 ---
 
-##Features:
+## Features:
 
 - Add Expense – Record amount, category, and date.
 - View Expenses – Display all saved expenses.
@@ -13,7 +13,7 @@ A simple Python application to track your daily expenses. Add, view, calculate t
 
 ---
 
-##How to Run:
+## How to Run:
 
 
 1. Clone this repository:
@@ -26,11 +26,11 @@ A simple Python application to track your daily expenses. Add, view, calculate t
 
    '''bash
 
-      python expense_tracker.py
+       python expense_tracker.py
 
 ---
 
-Dependencies:
+## Dependencies:
 To enable pie chart visualization of your expenses by category:
 Install matplotlib:
 
@@ -40,8 +40,8 @@ Install matplotlib:
 
 ---
 
-##Why I Built This:
-###This project helped me practice:
+## Why I Built This:
+### This project helped me practice:
 
 1. Python basics (functions, loops, conditionals)
 
