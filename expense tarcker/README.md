@@ -1,49 +1,53 @@
-Expense Tracker :
+#Expense Tracker :
 A simple Python application to track your daily expenses. Add, view, calculate totals, and manage your expenses.
 
+---
 
-Features:
+##Features:
 
-     Add Expense – Record amount, category, and date.
-     View Expenses – Display all saved expenses.
-     Total Expenses – Calculate the total money spent.
-     Delete Expense – Remove individual entries (optional).
-     Pie Chart Visualization (Advanced) – See your spending by category (requires matplotlib).
+- Add Expense – Record amount, category, and date.
+- View Expenses – Display all saved expenses.
+- Total Expenses – Calculate the total money spent.
+- Delete Expense – Remove individual entries (optional).
+- Pie Chart Visualization (Advanced) – See your spending by category (requires matplotlib).
+
+---
+
+##How to Run:
 
 
+1. Clone this repository:
 
-How to Run:
-
-
-Clone this repository:
-
-   ""bash
+   '''bash
 
        git clone url
 
-Run the program:
+2. Run the program:
 
-   ""bash
+   '''bash
 
       python expense_tracker.py
+
+---
 
 Dependencies:
 To enable pie chart visualization of your expenses by category:
 Install matplotlib:
 
-""bash
+'''bash
 
-        pip install matplotlib
+      pip install matplotlib
 
+---
 
-Why I Built This:
-This project helped me practice:
+##Why I Built This:
+###This project helped me practice:
 
-    1.Python basics (functions, loops, conditionals)
+1. Python basics (functions, loops, conditionals)
 
-    2.File handling (read/write .txt files)
+2. File handling (read/write .txt files)
 
-    3.Data visualization with matplotlib (advanced feature)
+3. Data visualization with matplotlib (advanced feature)
 
 
 
