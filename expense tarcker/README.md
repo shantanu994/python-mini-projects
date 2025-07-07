@@ -9,7 +9,7 @@ A simple Python application to track your daily expenses. Add, view, calculate t
 - View Expenses – Display all saved expenses.
 - Total Expenses – Calculate the total money spent.
 - Delete Expense – Remove individual entries (optional).
-- Pie Chart Visualization (Advanced) – See your spending by category (requires matplotlib).
+- Pie Chart Visualization – See your spending by category (requires matplotlib).
 
 ---
 
