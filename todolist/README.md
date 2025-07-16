@@ -1,5 +1,5 @@
 ## Mini To-Do List:
-A simple Command-Line Python application to manage your daily tasks. Add, view, and delete tasks easily through a user-friendly interface.
+A simple Command-Line Python application to manage your daily tasks. Add, view and mark incmplete tasks complete easily through a user-friendly interface.
 
 ---
 
@@ -16,11 +16,13 @@ A simple Command-Line Python application to manage your daily tasks. Add, view, 
 1. Clone this repository:
 
 '''bash
+
     git clone url
 
 2. Run the program:
 
 '''bash
+
     python todolist.py
 
 3. Follow the menu options to manage your tasks
