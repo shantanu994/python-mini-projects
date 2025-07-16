@@ -1,14 +1,13 @@
 ## Mini To-Do List:
-A simple Command-Line Python application to manage your daily tasks. Add, view and mark incmplete tasks complete easily through a user-friendly interface.
+A simple Command-Line Python application to manage your daily tasks. Add, view and mark incomplete tasks complete easily through a user-friendly interface.
 
 ---
 
 # Features
 - Add Tasks – Add tasks with descriptions.
 - View Tasks – See all your pending tasks in a list.
-- Delete Tasks – Remove completed tasks by their number.
+- Mark task complete – Mark tasks complete by their number.
 - Persistent Storage – Saves tasks to a file so you don’t lose them when the app closes.
-- Simple CLI Menu – Easy for beginners to use.
 
 ---
 
@@ -39,5 +38,10 @@ A simple Command-Line Python application to manage your daily tasks. Add, view a
 
 ---
 
+# Why I Built This
+# This project helped me practice:
+- Python basics (functions, loops, file handling)
+- orking with text files for data persistence
+- Building a clean CLI app
 
 
